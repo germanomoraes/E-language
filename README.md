@@ -1,2 +1,2 @@
-# E-library
+# E-languages
 É um Repositório destinado a disciplina de Engenharia de Software.
