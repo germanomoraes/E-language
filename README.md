@@ -1,2 +1,2 @@
 # E-library
-Repositório destinado a disciplina de Engenharia de Software.
+É um Repositório destinado a disciplina de Engenharia de Software.
